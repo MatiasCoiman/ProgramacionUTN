@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1525831065 source:c:\users\matias\desktop\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BibliotecaUtn.h"
+
+1525830351 c:\users\matias\desktop\biblioteca\bibliotecautn.h
+
+1525830925 source:c:\users\matias\desktop\biblioteca\bibliotecautn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BibliotecaUtn.h"
+	<stdlib.h>
+	<string.h>
+	"BibliotecaUtn.h"
+
